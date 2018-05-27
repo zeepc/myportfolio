@@ -1,0 +1,25 @@
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #2b2d3c;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+nav.navbar {
+	background-color: transparent;
+	color: #fff;
+}
+
+section{
+	height: 900px;
+	background-color: none;
+}
+
+.home-bio{
+	color: #fff;
+	background-color: transparent;
+
+}
