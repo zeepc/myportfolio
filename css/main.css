@@ -55,8 +55,6 @@ section{
   font-weight: normal;
   font-family: "Open Sans", sans-serif;
   letter-spacing: 3px;
-    /*-webkit-animation: myanim2 1s 1.8s backwards;
-    animation: myanim2 1s 1.8s backwards;*/
 }
 
 .name {
@@ -91,10 +89,6 @@ a{
 }
 
 .modal-header{
-	background-color: #fff;
-
+	background-color: #ffffffb8;
+	color: #646773;
 }
-
- div.card{
- 	margin-left: 3%;
- }
